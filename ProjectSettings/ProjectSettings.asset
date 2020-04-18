@@ -633,6 +633,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -646,10 +647,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 8269e19e-32cb-4f46-af78-f10369bd19a7
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: "\u4EBA\u5076\u683C\u6597"
+  organizationId: wechat_os_qy0-wpcwfv1t1wday5it9wrui
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
